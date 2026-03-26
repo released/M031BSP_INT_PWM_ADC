@@ -112,7 +112,7 @@ to RPM 750
 ![image](https://github.com/released/M031BSP_INT_PWM_ADC/blob/main/log_rpm_capture_2.jpg) 
 
 
-Below is log mesage and scope capture , about PC5:PWM1_CH0 , output freq : 18K , duty change
+Below is log mesage , about PC5:PWM1_CH0 , output freq : 18K , duty change
 
 ![image](https://github.com/released/M031BSP_INT_PWM_ADC/blob/main/log_pwm_output_1.jpg) 
 
