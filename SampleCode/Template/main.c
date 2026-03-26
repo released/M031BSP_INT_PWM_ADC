@@ -922,8 +922,6 @@ int main()
             - connect to PB5:EINT0
 
         PB5:EINT0 , to detect input pulse (100Hz , 120Hz)
-            - fall : output PWM
-            - rising : PWM off
 
         Scenario :
         1. use INT pin , to detect input pulse (use PWM @ 100Hz , 120Hz , 15%duty)
